@@ -1,0 +1,19 @@
+{
+  "app_name": "cloudrestaurant",
+  "app_mode": "debug",
+  "app_host": "localhost",
+  "app_port": "8090",
+  "database": {
+    "drive": "mysql",
+    "user": "root",
+    "password": "000000",
+    "host": "182.92.157.243",
+    "port": 3306,
+    "db_name": "svenBlog",
+    "charset": "utf8mb4",
+    "parse_time": "True",
+    "loc": "Local",
+    "Debug": true,
+    "Singular": true
+  }
+}
